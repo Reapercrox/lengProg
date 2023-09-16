@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1p3iJ/GxQisqvG7ieIqPrkdj7r0/U+mkVAvtOBpdpDmwUQCWBngx26CwLRUnjkig1k77FHlmbwtlKcLr26Zavw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\memis\\Documents\\TEC\\LP\\practicas en clase\\Semana2\\Semana2\\Semana2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\memis\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

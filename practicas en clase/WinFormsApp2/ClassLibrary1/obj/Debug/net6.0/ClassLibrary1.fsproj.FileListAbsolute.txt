@@ -1,0 +1,11 @@
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.xml
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.fsproj.AssemblyReference.cache
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.fs
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.fsproj.CoreCompileInputs.cache
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.xml
+C:\Users\oviquez\source\repos\WinFormsApp2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb

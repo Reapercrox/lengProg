@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Yusdvb5prb857i65d7K2BYcIkFuvlYTaY9EAYclmTJIk5lpq/alhQx9/Em+IVwAhfU3/PagPZNrhHYFlBylJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\memis\\Documents\\TEC\\LP\\practicas en clase\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\memis\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

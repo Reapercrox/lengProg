@@ -1,0 +1,6 @@
+let calcularMontosVenta cantidad listaProductos =
+    listaProductos
+    |> List.map (fun producto -> (int cantidad * producto.precio) + int (float (int cantidad * producto.precio) * 0.13))
+-------------------
+let montosVenta = calcularMontosVenta 5 listaProductos
+printfn "%A" montosVenta
